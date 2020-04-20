@@ -16,7 +16,7 @@ python instabrute.py USERNAME PASSWORD_FILE
 ```
 ## Todo List
 - [x] Finish the base
-- [ ] Proxy things improvement
+- [x] Proxy things improvement
 
 ## Modules
 argparse
